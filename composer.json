@@ -1,0 +1,22 @@
+{
+    "name": "nnagroup/laravel-material-bootstrap",
+    "description": "Add Material Bootstrap CSS Framework to Laravel",
+    "keywords": ["Material", "CSS", "Material Design", "laravel", "CSS Framework", "Bootstrap 4"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.*"
+    },
+    "authors": [
+        {
+            "name": "Nick",
+            "email": "nicholopolus@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "nnagroup\\LaravelMaterialBootstrap\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

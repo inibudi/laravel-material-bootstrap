@@ -19,15 +19,15 @@
         // JS files
         private static $file_js = [
             self::BASE_FOLDER . 'js/jquery-2.2.3.js', //jquery
-            self::BASE_FOLDER . 'js/bootstrap.js', //bootstrap
             self::BASE_FOLDER . 'js/tether.js', //tether
+            self::BASE_FOLDER . 'js/bootstrap.js', //bootstrap
             self::BASE_FOLDER . 'js/mdb.js', //material bootstrap
 
         ];
         private static $file_js_min = [
             self::BASE_FOLDER . 'js/jquery-2.2.3.min.js', //jquery
-            self::BASE_FOLDER . 'js/bootstrap.min.js', //bootstrap
             self::BASE_FOLDER . 'js/tether.min.js', //tether
+            self::BASE_FOLDER . 'js/bootstrap.min.js', //bootstrap
             self::BASE_FOLDER . 'js/mdb.min.js', //material bootstrap
         ];
 

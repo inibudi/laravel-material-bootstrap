@@ -15,7 +15,7 @@ Material Bootstrap CSS Framework for Laravel 5.  For more information see the gu
 
 * Add Facade to the aliases array in config/app.php
 ```php
-	'MaterialBootstrapCSS' => nnagroup\LaravelMaterialBootstrap\MaterialBootstrap::class,
+	'MaterialBootstrap' => nnagroup\LaravelMaterialBootstrap\MaterialBootstrap::class,
 ```
 
 *  Then publish the package's assets to public folder:
